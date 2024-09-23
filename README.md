@@ -1,4 +1,3 @@
-Sure! Here's an English version of the GitHub profile `README.md` template:
 
 ---
 
