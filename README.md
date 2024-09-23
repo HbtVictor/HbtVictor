@@ -17,7 +17,7 @@
   - ☕ **Java**
   - 🌐 **JavaScript**
   - 🎨 **HTML/CSS**
-  - 🖥️ **Bash/Shell**
+  - 🖥️ **PHP**
 
 ## 🔧 Tools & Technologies
 
