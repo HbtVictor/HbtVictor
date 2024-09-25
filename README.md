@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I am a passionate developer always learning new technologies.
+- 🎓 I am a passionate developer always learning new technologies, currently on a work-study contract with GoronASSI
 - 🌱 Currently diving deeper into Symfony framework mainly.
 - 💼 I have worked on projects using the following languages:
   - 🐍 **Python**
