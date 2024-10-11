@@ -22,7 +22,7 @@
 ## 🔧 Tools & Technologies
 
 - **Frameworks:** Symfony, ReactJS, ElectronJS, Flask...
-- **Tools:** Git, Docker, VS Code
+- **Tools:** Git, Docker, VS Code, PhpStorm, WebStorm, IntelliJ IDEA
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQLite.
 
 
