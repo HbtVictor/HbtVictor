@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I am a passionate developer always learning new technologies, currently on a work-study contract with GoronASSI
+- 🎓 I am a passionate developer always learning new technologies
 - 🌱 Currently diving deeper into Symfony framework mainly.
 - 💼 I have worked on projects using the following languages:
   - 🐍 **Python**
@@ -23,7 +23,7 @@
 
 - **Frameworks:** Symfony, ReactJS, ElectronJS, Flask...
 - **Tools:** Git, Docker, VS Code, PhpStorm, WebStorm, IntelliJ IDEA
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite.
+- **Databases:** MySQL, PostgreSQL, SQLite, Oracle.
 
 
 ## 🌐 Find Me Elsewhere
