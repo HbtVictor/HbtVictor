@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I am a passionate developer always learning new technologies
-- 🌱 Currently diving deeper into Symfony framework mainly.
+- 🌱 Currently diving deeper into web Frameworks.
 - 💼 I have worked on projects using the following languages:
   - 🐍 **Python**
   - ☕ **Java**
@@ -21,7 +21,7 @@
 
 ## 🔧 Tools & Technologies
 
-- **Frameworks:** Symfony, ReactJS, ElectronJS, Flask...
+- **Frameworks:** Symfony, ReactJS, Django...
 - **Tools:** Git, Docker, VS Code, PhpStorm, WebStorm, IntelliJ IDEA
 - **Databases:** MySQL, PostgreSQL, SQLite, Oracle.
 
